@@ -8,6 +8,7 @@
 
 ## 3D files 
 
-![IMG_20141126_165313_preview_featured](https://github.com/cristalc12/AquaticEats/assets/105386097/b3ac6872-6796-4691-873b-680ed36db80a) 
+
+![IMG_20141126_165313_preview_featured](https://github.com/cristalc12/AquaticEats/assets/105386097/f2740172-2676-4ca6-8cff-3ab175c7d1d3)
 
 downloaded from https://www.thingiverse.com/thing:301532 by coberdas
